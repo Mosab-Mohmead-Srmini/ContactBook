@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEcIDGdbZ/b0OK78DMrkMJMRaUuAWwd6zIKw1QyaWMoTUXlZ7yt+vNE36g2n4V3PxmzfDc84NAWm89jn9oe8Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NAZEM.CENTER\\source\\repos\\BackEndContactBook\\BackEndContactBook\\Domain.ContactBook\\Domain.ContactBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAZEM.CENTER\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\NAZEM.CENTER\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

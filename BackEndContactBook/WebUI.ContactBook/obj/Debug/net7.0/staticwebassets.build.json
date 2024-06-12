@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hExb8ABnsbQofW6DlP4NkSDfP1jvkqIgVyPET+gJGfM=",
+  "Source": "WebUI.ContactBook",
+  "BasePath": "_content/WebUI.ContactBook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
